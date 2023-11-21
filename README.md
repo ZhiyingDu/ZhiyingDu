@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zhi-Ying Du(杜智颖) </h1>
-I'm a doctor student of FVL, College of Computer Science, Fudan University, under the supervision of Prof. Zuxuan Wu. I received the B.E. degree from Zhejiang University of Technology (ZJUT) in 2024. My research interests are in computer vision and machine learning, with a particular focus on image restoration and video generation. For more information, please visit the <a href="[https://www.zhihu.com/people/a-chao-49-95-55]" target="_blank">personal homepage.</a>
+I'm a doctor student of FVL, College of Computer Science, Fudan University, under the supervision of Prof. Zuxuan Wu. I received the B.E. degree from Zhejiang University of Technology (ZJUT) in 2024. My research interests are in computer vision and machine learning, with a particular focus on image restoration and video generation. For more information, please visit the <a href="https://www.zhihu.com/people/a-chao-49-95-55" target="_blank">personal homepage.</a>
 
 
 <div align="center"> 
