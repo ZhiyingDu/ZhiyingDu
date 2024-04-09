@@ -6,8 +6,3 @@ I'm a doctor student of FVL, College of Computer Science, Fudan University, unde
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ZhiyingDu/count.svg" /> 
 </div>
-
-## GitHub Stats Card
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ZhiyingDu&show_icons=true&theme=tokyonight" /> 
-</div>
